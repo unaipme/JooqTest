@@ -1,0 +1,2 @@
+# JooqTest
+This is a simple example of how to fetch and insert data from/into a PostgreSQL database. Follow the steps on how to set Jooq up on [here](https://www.jooq.org/doc/3.9/manual/getting-started/tutorials/jooq-in-7-steps/), but instead of using the sample SQL and XML configuration file provided there, use the `schema.sql` and `conf.xml` on the root of this repository. Change the hard-coded URL, username and password as needed. The example should work just fine as is.
